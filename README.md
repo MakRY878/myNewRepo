@@ -4,3 +4,7 @@ Demo for Java programming
 
 This repo is used for a demo of public/private key connections between Git and Github
 in CIT-63
+
+this is a new line 
+
+created at the end of class demo
